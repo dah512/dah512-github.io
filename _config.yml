@@ -6,10 +6,10 @@
 # --- Required options --- #
 
 # Name of website
-title: My Website
+title: EDM Health Services LLC
 
 # Your name to show in the footer
-author: Some Person
+author: Darrell A. Hall, MD, MSCIS
 
 # --- List of links in the navigation bar --- #
 
@@ -39,20 +39,20 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: c/daattali
-#  reddit: yourname
-#  linkedin: daattali
-#  xing: yourname
+  email: "dah512@me.com"
+  facebook: dah512@me.com
+  github: dah512@me.com
+  twitter: @dah512
+  patreon: DarrellHall
+  youtube: halldarrell193@gmail.com
+#  reddit: 
+  linkedin: linkedin/n/darrellhall-md-mscis
+ xing: Darrell Hall
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
 #  instagram: deanat78
 #  spotify: yourname
-#  telephone: +14159998888
+#  telephone: +14193221171
 #  steam: deanat78
 #  twitch: yourname
 #  yelp: yourname
@@ -169,6 +169,7 @@ footer-link-col: "#404040"
 # See more details at https://staticman.net/
 #staticman:
 #  repository : # GitHub username/repository eg. "daattali/beautiful-jekyll"
+repository: dah512/beautiful-jekyll
 #  branch     : master # If you're not using `master` branch, then you also need to update the `branch` parameter in `staticman.yml`
 #  endpoint   : # (optional) URL of your own deployment, with a trailing slash eg. https://<your-api>/v3/entry/github/ (will fallback to a public GitLab instance)
 #  reCaptcha:
