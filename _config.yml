@@ -47,20 +47,20 @@ social-network-links:
   youtube: halldarrell193@gmail.com
 #  reddit: 
   linkedin: linkedin/n/darrellhall-md-mscis
- xing: Darrell Hall
-#  stackoverflow: "3943160/daattali"
-#  snapchat: deanat78
-#  instagram: deanat78
-#  spotify: yourname
-#  telephone: +14193221171
-#  steam: deanat78
-#  twitch: yourname
-#  yelp: yourname
-#  telegram: yourname
-#  calendly: yourname
-#  mastodon: instance.url/@username
-#  ORCID: your ORCID ID
-#  google-scholar: your google scholar
+  xing: Darrell Hall
+# stackoverflow: 
+  snapchat: dah512@snapchat.com
+  instagram: dah512@instagram.com
+# spotify: dah512@spotify.com
+  telephone: +15678688558
+# steam: deanat78
+# twitch: yourname
+  yelp: dah512
+# telegram: dah512
+# calendly: dah512@me.com
+# mastodon: instance.url/@username
+# ORCID: your ORCID ID
+# google-scholar: your google scholar
 
 # If you want to show a link to an RSS in the footer, add the site description here.
 # If you don't want to show an RSS link, remove the following line.
@@ -77,7 +77,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+url-pretty: "edmhsorg.atlassian.net"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
