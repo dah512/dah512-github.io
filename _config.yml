@@ -18,7 +18,7 @@ navbar-links:
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Author's home: "https://dah512.github.io"
 
 # --- Logo --- #
 
@@ -59,7 +59,7 @@ social-network-links:
 # telegram: dah512
 # calendly: dah512@me.com
 # mastodon: instance.url/@username
-# ORCID: your ORCID ID
+# ORCID: 0000-0002-1911-4417
 # google-scholar: your google scholar
 
 # If you want to show a link to an RSS in the footer, add the site description here.
@@ -77,7 +77,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "edmhsorg.atlassian.net"
+url-pretty: "https://edmhs.us"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
@@ -169,7 +169,7 @@ footer-link-col: "#404040"
 # See more details at https://staticman.net/
 #staticman:
 #  repository : # GitHub username/repository eg. "daattali/beautiful-jekyll"
-repository: dah512/beautiful-jekyll
+repository: dah512.beautiful-jekyll
 #  branch     : master # If you're not using `master` branch, then you also need to update the `branch` parameter in `staticman.yml`
 #  endpoint   : # (optional) URL of your own deployment, with a trailing slash eg. https://<your-api>/v3/entry/github/ (will fallback to a public GitLab instance)
 #  reCaptcha:
