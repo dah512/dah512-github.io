@@ -7,6 +7,7 @@
 
 # Name of website
 title: EDM Health Services LLC
+description: This is the proposed pre-Data Science Certification for Empowered Disease Management (EDM)
 
 # Your name to show in the footer
 author: Darrell A. Hall, MD, MSCIS
@@ -53,13 +54,13 @@ social-network-links:
   instagram: dah512@instagram.com
 # spotify: dah512@spotify.com
   telephone: +15678688558
-# steam: deanat78
+# steam: 
 # twitch: yourname
   yelp: dah512
 # telegram: dah512
-# calendly: dah512@me.com
+  calendly: dah512@me.com
 # mastodon: instance.url/@username
-# ORCID: 0000-0002-1911-4417
+  ORCID: 0000-0002-1911-4417
 # google-scholar: your google scholar
 
 # If you want to show a link to an RSS in the footer, add the site description here.
@@ -129,6 +130,8 @@ footer-link-col: "#404040"
 # Fill in your Google Analytics gtag.js ID to track your website using gtag
 #gtag: ""
 
+# indicate whether to provide a download URL
+show_downloads: true
 # Fill in your Google Analytics ID to track your website using Google Analytics
 #google_analytics: ""
 
@@ -227,6 +230,6 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
 
-# Beautiful Jekyll / Dean Attali
+# Beautiful Jekyll / Darrell Hall
 # 2fc73a3a967e97599c9763d05e564189
 
